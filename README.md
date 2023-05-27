@@ -1,2 +1,2 @@
-FAST RESTFOODS
+#FAST RESTFOODS
 A simple C++ restaurant program that allows a user to enter the type of food they wanna have and checks if its available at the restaurant food store. If its not available and the user is prompt to choose something else, but if the user enters the owner security key, then they are able to add their own foods into the restaurant food store at runtime. though there's one problem, the code has a bug. It occurs when the user tries to add a new dish(food)...I will try to fix it
