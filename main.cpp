@@ -6,6 +6,7 @@
 #include<stdlib.h>
 using namespace std;
 
+//Function prototypes
 void foodFeedback(string name, int takeAway, char add);
 bool searchFood(string name);
 void loadFood(vector<string>&);
